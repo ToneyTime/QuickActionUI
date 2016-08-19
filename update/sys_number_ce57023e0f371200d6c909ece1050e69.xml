@@ -8,7 +8,7 @@
         <sys_class_name>sys_number</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-06-07 22:30:27</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>ce57023e0f371200d6c909ece1050e69</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>ACT</sys_name>
